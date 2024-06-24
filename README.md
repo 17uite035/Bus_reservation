@@ -1,6 +1,6 @@
 
 
-## SAFAR :- BUS RESERVATION MANAGEMENT PORTAL
+#ONLINE BUS TICKET BOOKING MANAGEMENT 
 
 The bus reservation system portal is a web-based application that enables users to book bus tickets online. The system will allow users book available buses based on their source and destination cities, reserve the seats, and make payments securely. The system will also provide a UI based dashboard for admin to manage their bus related operations.
 
@@ -20,14 +20,6 @@ The bus reservation system portal is a web-based application that enables users 
     - Only logged in user can access his reservations, profile updation and other features.
 
 <br>
-
-## ER Diagrm
-<img src="https://github.com/AbhayKumarVishwakarma/Safar/blob/main/Bus%20Reservation%20System%20Portal/Frontend/src/images/ERDiagram2.jpg" > </img>
-
-<br>
-
-## Flow Chart
-<img src='https://github.com/AbhayKumarVishwakarma/Safar/blob/main/Bus%20Reservation%20System%20Portal/Frontend/src/images/safar2.png'></img>
 
 ## Modules
 
@@ -52,7 +44,7 @@ The bus reservation system portal is a web-based application that enables users 
 
 ## Installation & Run
 
-* Before running the API server, you should update the database config inside the [application.properties](https://github.com/AbhayKumarVishwakarma/few-houses-4121/blob/main/Bus%20Reservation%20System%20Portal/Backend/bus_reservation/src/main/resources/application.properties) file. 
+* Before running the API server, you should update the database config inside the [application.properties]
 * Update the port number, username and password as per your local database config.
 
 ```
